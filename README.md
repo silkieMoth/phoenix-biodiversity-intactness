@@ -23,7 +23,7 @@ It contains code for analysis of biodiversity decline in the Phoenix-Mesa-Chandl
 ### File Organization
 
 ```
-eds220-hwk4
+BII-biodiversity-decline
 │
 ├── README.md                     
 ├── final_proj_part_2.ipynb  # .ipynb for conducting biodiversity analysis
