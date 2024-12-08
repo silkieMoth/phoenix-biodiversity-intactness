@@ -6,3 +6,30 @@ This repository is part of an assignment for the class EDS-220 Environmental Dat
 It contains code for analysis of biodiversity decline in the Phoenix-Mesa-Chandler Metropolitan Statistical District. By sourcing data for a Biodiversity Intactness Index (BII), we quantify change in an area's biodiversity on a temporal scale. 
 
 ![Chollas and Saguaros](/images/sonoran-desert.jpg "Sonoran landscape with Chollas and Saguaros.")
+
+## Repository Structure
+### Files
+* `final_proj_part_2.ipynb` contains all code for...
+    + Subsetting the US Census Bureau TIGER shapefile for Phoenix.
+    + Interfacing with Planetary Computer STAC Collection for the `io-biodiversity` dataset.
+    + Clipping the `io-biodiversity` raster's to the Phoenix polygon.
+    + Calculating total area where BII is greater than 0.75.
+    + Creating masked raster for biodiversity loss from 2017 to 2020, where areas that formerly had a BII >= 0.75 have declined below that standard.
+    + Plotting...
+        - The broader geographic context of the Phoenix-Mesa-Chandler MSD.
+        - BII index raster with locations of decline from >= 0.75 to < 0.75.
+
+
+### File Organization
+
+```
+eds220-hwk4
+│
+├── README.md                     
+├── final_proj_part_2.ipynb  # .ipynb for conducting biodiversity analysis
+│
+├── images/                       
+│   ├── sonoran-desert.jpg             # image used in the README
+│
+├── .gitignore 
+```
