@@ -39,3 +39,17 @@ The data needed for this analysis is not stored in the repository. The datasets 
 
 * `io-biodiversity` can be accessed by interfacing with Microsoft's Planetary Computer STAC Collection API directly in python, utilizing the `pystac_client` and `planetary_computer` libraries. The code and instructions for which to accomplish this is included in the "final_proj_part_2" notebook.
 * `tl_2021_04_cousub.shp` (US Census Bureau & Department of Commerce's 2021 TIGER/Line Shapefile for county subdivisions in AZ) can be downloaded from [Data.gov](https://catalog.data.gov/dataset/tiger-line-shapefile-2021-state-arizona-county-subdivisions). Code and instructions to subset for the Phoenix polygon are included in the "final_proj_part_2" notebook.
+
+## References
+### Acknowledgements
+#### This project is supported in part by:
+- EDS 220 Environmental Datasets at UCSB: [Website](https://meds-eds-220.github.io/MEDS-eds-220-course/)
+- UCSB Bren School for Environmental Science and Management: [Website](https://bren.ucsb.edu/)
+- The Master of Environmental Data Science degree at Bren: [Website](https://bren.ucsb.edu/masters-programs/master-environmental-data-science)
+- National Center for Ecological Analysis and Synthesis (NCEAS): [Website](https://www.nceas.ucsb.edu/)
+- Sam Csik: [Website](https://samanthacsik.github.io/
+
+### Data Citations
+Impact Observatory, Vizzuality (2022). *io-biodiversity* (v1) [Dataset]. Microsoft Planetary Computer STAC Catalog. https://planetarycomputer.microsoft.com/dataset/io-biodiversity#overview
+
+Department of Commerce. (2021). *TIGER/Line Shapefile, 2021, State, Arizona, County Subdivisions* [Dataset]. U.S. Census Bureau. https://catalog.data.gov/dataset/tiger-line-shapefile-2021-state-arizona-county-subdivisions
