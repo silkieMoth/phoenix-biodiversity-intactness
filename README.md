@@ -33,3 +33,9 @@ eds220-hwk4
 │
 ├── .gitignore 
 ```
+
+## Data 
+The data needed for this analysis is not stored in the repository. The datasets can be loaded from their own respective sources.
+
+* `io-biodiversity` can be accessed by interfacing with Microsoft's Planetary Computer STAC Collection API directly in python, utilizing the `pystac_client` and `planetary_computer` libraries. The code and instructions for which to accomplish this is included in the "final_proj_part_2" notebook.
+* `tl_2021_04_cousub.shp` (US Census Bureau & Department of Commerce's 2021 TIGER/Line Shapefile for county subdivisions in AZ) can be downloaded from [Data.gov](https://catalog.data.gov/dataset/tiger-line-shapefile-2021-state-arizona-county-subdivisions). Code and instructions to subset for the Phoenix polygon are included in the "final_proj_part_2" notebook.
