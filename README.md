@@ -5,6 +5,4 @@ This repository is part of an assignment for the class EDS-220 Environmental Dat
 
 It contains code for analysis of biodiversity decline in the Phoenix-Mesa-Chandler Metropolitan Statistical District. By sourcing data for a Biodiversity Intactness Index (BII), we quantify change in an area's biodiversity on a temporal scale. 
 
-![image info](images/sonoran-desert.png)
-
-Sonoran landscape with Chollas and Saguaros.
+![Chollas and Saguaros](/images/sonoran-desert.png "Sonoran landscape with Chollas and Saguaros.")
