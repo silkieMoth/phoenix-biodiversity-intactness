@@ -47,7 +47,7 @@ The data needed for this analysis is not stored in the repository. The datasets 
 - UCSB Bren School for Environmental Science and Management: [Website](https://bren.ucsb.edu/)
 - The Master of Environmental Data Science degree at Bren: [Website](https://bren.ucsb.edu/masters-programs/master-environmental-data-science)
 - National Center for Ecological Analysis and Synthesis (NCEAS): [Website](https://www.nceas.ucsb.edu/)
-- Sam Csik: [Website](https://samanthacsik.github.io/
+- Sam Csik: [Website](https://samanthacsik.github.io/)
 
 ### Data Citations
 Impact Observatory, Vizzuality (2022). *io-biodiversity* (v1) [Dataset]. Microsoft Planetary Computer STAC Catalog. https://planetarycomputer.microsoft.com/dataset/io-biodiversity#overview
