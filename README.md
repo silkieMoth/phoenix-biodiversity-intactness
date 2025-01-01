@@ -29,7 +29,7 @@ BII-biodiversity-decline
 ├── final_proj_part_2.ipynb  # .ipynb for conducting biodiversity analysis
 │
 ├── images/                       
-│   ├── sonoran-desert.jpg             # image used in the README
+│   └── sonoran-desert.jpg             # image used in the README
 │
 ├── .gitignore 
 ```
